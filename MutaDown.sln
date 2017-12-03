@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutaDown", "MutaDown.csproj", "{DC51A8B3-E4F0-7508-A746-B6869BF00427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutaDown.Plugins", "MutaDown.Plugins.csproj", "{6F62987A-B635-98D7-E0A5-69A8BDE2A044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC51A8B3-E4F0-7508-A746-B6869BF00427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC51A8B3-E4F0-7508-A746-B6869BF00427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC51A8B3-E4F0-7508-A746-B6869BF00427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC51A8B3-E4F0-7508-A746-B6869BF00427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F62987A-B635-98D7-E0A5-69A8BDE2A044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F62987A-B635-98D7-E0A5-69A8BDE2A044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F62987A-B635-98D7-E0A5-69A8BDE2A044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F62987A-B635-98D7-E0A5-69A8BDE2A044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
